@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RubaTeixeira
+- 👀 I’m interested in Quality Assurance, mobile
+- 🌱 I’m currently learning Quality Assurance
+- 💞️ I’m looking to learn a lot of stuffs about QA.
