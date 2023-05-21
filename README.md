@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RubaTeixeira
 - 👀 I’m interested in Quality Assurance, mobile
-- 🌱 I’m currently learning about Quality Assurance and mobile developing to Android.
+- 🌱 I’m currently learning about Quality Assurance and JS.
 - 💞️ I’m looking to learn a lot of stuffs about QA.
