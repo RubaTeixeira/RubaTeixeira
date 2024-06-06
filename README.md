@@ -15,3 +15,4 @@ These were enriching experiences that encouraged me to follow a new professional
 - [Something about testing](https://github.com/RubaTeixeira/Something-about-testing)
 
 ## Certification
+![ISTQBCertification](stamp-ctfl.png)
