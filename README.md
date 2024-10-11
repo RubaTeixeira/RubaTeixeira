@@ -17,4 +17,4 @@ These were enriching experiences that encouraged me to follow a new professional
 
 ## Certification
 ![ISTQBCertification](stamp-ctfl.png)
-![GoogleDACertification](certificado-profissional-de-analise-de-dados-do-google.png)
+![GoogleDACertification](GCC_badge_DA.png)
