@@ -14,6 +14,7 @@ These were enriching experiences that encouraged me to follow a new professional
 ## My projects
 - [Something about testing](https://github.com/RubaTeixeira/Something-about-testing)
 - [Something about data analysis](https://github.com/RubaTeixeira/R_projects)
+- [Something about chatbot](https://github.com/RubaTeixeira/Detective_Chatbot_Project)
 
 ## Certification
 ![ISTQBCertification](stamp-ctfl.png)
